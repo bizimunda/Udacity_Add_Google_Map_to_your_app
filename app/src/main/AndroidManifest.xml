@@ -34,11 +34,15 @@
         <activity
             android:name=".MarkerOption"
             android:label="@string/title_activity_marker_option" >
-
         </activity>
         <activity
             android:name=".Polyline"
             android:label="@string/title_activity_polyline" >
+
+        </activity>
+        <activity
+            android:name=".StreetView"
+            android:label="@string/title_activity_street_view" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

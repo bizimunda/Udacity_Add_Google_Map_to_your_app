@@ -7,5 +7,6 @@
     <string name="title_activity_moving_different_cities">MovingDifferentCities</string>
     <string name="title_activity_marker_option">MarkerOption</string>
     <string name="title_activity_polyline">Polyline</string>
+    <string name="title_activity_street_view">StreetView</string>
 
 </resources>
