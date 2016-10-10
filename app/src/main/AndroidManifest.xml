@@ -26,11 +26,19 @@
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name" >
-
         </activity>
         <activity
             android:name=".MovingDifferentCities"
             android:label="@string/title_activity_moving_different_cities" >
+        </activity>
+        <activity
+            android:name=".MarkerOption"
+            android:label="@string/title_activity_marker_option" >
+
+        </activity>
+        <activity
+            android:name=".Polyline"
+            android:label="@string/title_activity_polyline" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

@@ -5,5 +5,7 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_moving_different_cities">MovingDifferentCities</string>
+    <string name="title_activity_marker_option">MarkerOption</string>
+    <string name="title_activity_polyline">Polyline</string>
 
 </resources>
